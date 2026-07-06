@@ -10,9 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **none**
- 
- 🌱 I’m currently learning **Java**
+ 🌱 I’m currently learning **Java, Python**
 
 💬 Ask me about **java,... or anything [here](https://github.com/TieByn26/TieByn26/issues)**
 
@@ -32,7 +30,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=next,react,tailwind,typescript,javascript,html,css" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,java,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,java,spring,python,flask" /><br>
 </div>
 
 <br/>
